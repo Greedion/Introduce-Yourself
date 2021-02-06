@@ -1,0 +1,2 @@
+ALTER TABLE TODO
+ALTER COLUMN done bit;
